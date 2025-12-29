@@ -1,0 +1,4 @@
+/* Minimal global styles - most styles are in index.css via Tailwind */
+#root {
+  min-height: 100vh;
+}
